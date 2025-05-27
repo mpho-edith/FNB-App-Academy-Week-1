@@ -26,15 +26,6 @@ Technologies Used
 
     Custom list styles (icons, Roman numerals).
 
-your-project/
-├── index.html          # Homepage with images and links
-├── about.html          # About Us page
-├── boat.html           # Boat image page
-├── links.html          # Navigation menu demo
-├── lists.html          # Fruit and grocery lists
-├── style.css           # Global stylesheet
-└── images/             # Folder for images (boat.jpg, city.jpg, etc.)
-
 🚀 How to Run
 Download the project (or clone if using Git).
 

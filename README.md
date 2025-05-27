@@ -1,2 +1,45 @@
-# FNB-App-Academy-Week-1
-This is my first project in HTML
+Simple HTML Website Project
+A multi-page static website built with HTML and CSS, featuring images, links, lists, and basic styling. Perfect for learning web development fundamentals.
+
+📌 Features
+  1. Home page (index.html) with headings, images, and external/internal links.
+
+  2. About page (about.html) with a brief welcome message.
+
+  3. Boat page (boat.html) showcasing an image with a return link.
+
+  4. Links page (links.html) with a styled navigation menu.
+
+  5. Lists page (lists.html) demonstrating unordered and ordered lists.
+
+  6. Custom CSS (style.css) for styling headings, text, tables, and interactive menus.
+
+Technologies Used
+
+1. HTML5 (Structure)
+
+2. CSS3 (Styling)
+
+    Font styling, colors, alignment.
+
+    Hover effects for navigation links.
+
+    Custom list styles (icons, Roman numerals).
+
+your-project/
+├── index.html          # Homepage with images and links
+├── about.html          # About Us page
+├── boat.html           # Boat image page
+├── links.html          # Navigation menu demo
+├── lists.html          # Fruit and grocery lists
+├── style.css           # Global stylesheet
+└── images/             # Folder for images (boat.jpg, city.jpg, etc.)
+
+🚀 How to Run
+Download the project (or clone if using Git).
+
+Open any HTML file (e.g., index.html) in a web browser:
+
+  Double-click the file, or
+
+  Use a live server extension in VS Code.
